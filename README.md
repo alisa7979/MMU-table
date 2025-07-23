@@ -1,3 +1,4 @@
+
 ---
 
 # 🧠 ARM MMU Initialization and Page Table Mapping Project
@@ -135,3 +136,6 @@ Load `mmu_demo.bin` onto ZedBoard or equivalent ARM platform with MMU support.
 * Understand virtual-to-physical translation
 * Practice exception handling
 * Grasp memory protection and address space management
+
+---
+
